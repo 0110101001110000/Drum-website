@@ -1,0 +1,22 @@
+{
+  "name": "drum-website",
+  "version": "1.0.0",
+  "description": "Drum is a website created to develop and improve my skills related mainly to JavaScript.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0110101001110000/Drum-website.git"
+  },
+  "author": "0110101001110000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0110101001110000/Drum-website/issues"
+  },
+  "homepage": "https://github.com/0110101001110000/Drum-website#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
