@@ -1,7 +1,7 @@
 {
   "name": "drum-website",
   "version": "1.0.0",
-  "description": "Drum is a website created to develop and improve my skills related mainly to JavaScript.",
+  "description": "Drum is a website created with the objective of develop and improve my skills related mainly to JavaScript.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
